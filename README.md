@@ -1,4 +1,4 @@
-# Atliq-Business-Insights-360  -- https://app.powerbi.com/groups/b7229195-69f7-4077-84a7-0928ca52b580/reports/1c068d6c-6eac-4cba-b1a5-d861941c4751?ctid=fa8149cf-3bbb-4675-9c93-61a54dbd798a&pbi_source=linkShare&bookmarkGuid=98607b04-4a87-49de-ba65-66526d5d7ab3
+# Atliq-Business-Insights-360  
 **Objective**: AtliQ  hardware is a consumer goods electronic company having operations in various countries
 The company wants to get some insights on their data. 
 Objective: The main objective is to know about the operational metrics, customer insights, Marketing trends, ultimately contribute to the growth & success.
@@ -12,7 +12,9 @@ DAX Formulas
 Power Query
 MySQL
 PowerBI
+Live Dashboard:
 https://app.powerbi.com/groups/b7229195-69f7-4077-84a7-0928ca52b580/reports/1c068d6c-6eac-4cba-b1a5-d861941c4751/e1aafc1f6cd3b4176d1a?ctid=fa8149cf-3bbb-4675-9c93-61a54dbd798a&experience=power-bi&bookmarkGuid=98607b04-4a87-49de-ba65-66526d5d7ab3
+
 
 
 
