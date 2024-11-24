@@ -21,50 +21,92 @@ Excel
 DAX Studio ( for optimizing the report)
 
 Live Dashboard:
+
 https://app.powerbi.com/groups/b7229195-69f7-4077-84a7-0928ca52b580/reports/1c068d6c-6eac-4cba-b1a5-d861941c4751/e1aafc1f6cd3b4176d1a?ctid=fa8149cf-3bbb-4675-9c93-61a54dbd798a&experience=power-bi&bookmarkGuid=98607b04-4a87-49de-ba65-66526d5d7ab3
+
 **Power BI techniques learnt**
+
 Creating calculated columns
+
 creating measures using DAX language
+
 Page Navigation with buttons
+
 Dynamic titles based on the applied filters
+
 Using KPI indicators
+
 Power BI app creation
+
 Power BI Service
+
 Setting Up personal gateway to set up the auto refresh of data 
+
 Collaboration, workspace, access permissions in power BI service
+
 conditional Formattting the values in visuals icons or background colors
+
 using divide fucntion to prevent zero division errors
 
 **Domain knowledge**
+
 Finance
+
 Sales
+
 Marketing
+
 Supply chain
+
 **DAX FUNCTIONS:**
+
 CALCULATE()
+
 DIVIDE()
+
 FILTER()
+
 ALLNOBLANKROW()
+
 SWITCH()
+
 **Key terms**
+
 Gross Price
+
 Pre-invoice deductions
+
 Post-invoice deductions
+
 Net Invoice Sale
+
 Gross Margin
+
 Net Sales
+
 Net Profit
+
 COGS - COst of goods sold
+
 YTD- Year to Date
+
 YTG - Year to go
+
 consumer
+
+
 **Home View**
+
 In home view all the views button will be available. User will land on specific view page by clicking the button
 
 Finance View
+
 Sales View
+
 Marketing View
+
 Supply chain view
+
 Executive view
 
 
