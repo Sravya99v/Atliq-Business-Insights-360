@@ -23,6 +23,9 @@ DAX Studio ( for optimizing the report)
 Live Dashboard:
 
 https://app.powerbi.com/view?r=eyJrIjoiYTc1MGFmZWQtZTFmNi00NDU0LThiYTUtNTBhNTJkNTBiYzc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
 **Power BI techniques learnt**
 
 Creating calculated columns
